@@ -75,10 +75,7 @@
                 opacity: 0;
                 transition: opacity .2s;
 
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
+                @include centered;
 
                 height: 1.3rem;
                 width: 1.3rem;
