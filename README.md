@@ -42,14 +42,14 @@ To get the most out of this course, it's recommended that you have:
 
 This course is divided into different sections, each covering specific topics. You will find lecture notes, assignments, and code samples in the respective section folders.
 
-- [Section 1]: Introduction to Advanced CSS and Sass
-- [Section 2]: CSS Architecture and BEM
-- [Section 3]: Advanced CSS Animations and Transitions
-- [Section 4]: Sass (SCSS)
-- [Section 5]: Flexbox
-- [Section 6]: Advanced Responsive Design
-- [Section 7]: Real-World Projects
-- [Section 8]: Wrap-up and Additional Resources
+- Section 1: Introduction to Advanced CSS and Sass
+- Section 2: CSS Architecture and BEM
+- Section 3: Advanced CSS Animations and Transitions
+- Section 4: Sass (SCSS)
+- Section 5: Flexbox
+- Section 6: Advanced Responsive Design
+- Section 7: Real-World Projects
+- Section 8: Wrap-up and Additional Resources
 
 ## Assignments 📝
 
