@@ -1,7 +1,7 @@
 {
-  "name": "Nexter",
+  "name": "Trillo",
   "version": "1.0.0",
-  "description": "Nexter webpage",
+  "description": "Trillo webpage",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss sass/main.css -w",
